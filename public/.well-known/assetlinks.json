@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.kgluszczyk.destinations",
-    "sha256_cert_fingerprints":
-    ["46:BB:F5:0C:35:C3:23:03:2A:50:23:D8:5B:12:E4:EB:BB:5E:5A:E7:01:67:CE:79:AA:65:C4:6E:16:BE:A6:6F"]
-  }
-}]
